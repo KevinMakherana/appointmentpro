@@ -4,3 +4,4 @@ data/
 *.log
 .netbeans/
 nb-configuration.xml
+dependency-reduced-pom.xml
