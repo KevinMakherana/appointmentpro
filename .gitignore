@@ -1,0 +1,6 @@
+target/
+data/
+*.class
+*.log
+.netbeans/
+nb-configuration.xml
